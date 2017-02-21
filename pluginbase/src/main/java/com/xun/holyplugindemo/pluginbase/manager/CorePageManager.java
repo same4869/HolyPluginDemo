@@ -28,7 +28,7 @@ import java.util.Set;
 public class CorePageManager {
     private static final String TAG = CorePage.class.getSimpleName();
 
-    private static final String PACKAGE_NAME = "com.wenba.bangbang";
+    private static final String PACKAGE_NAME = "com.xun.holyplugindemo";
 
     private static Context mContext;
     private static boolean mPluginDebug = false;

@@ -1,1 +1,1 @@
-include ':app', ':pluginbase', ':comm', ':resource'
+include ':app', ':pluginbase', ':comm', ':resource', ':p_scanword', ':p_scanword'
