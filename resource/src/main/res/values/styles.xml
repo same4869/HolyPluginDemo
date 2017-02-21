@@ -1,0 +1,31 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- 标准蓝色主按钮 -->
+    <style name="submitBtn">
+        <item name="android:background">@drawable/comm_bg_btn</item>
+        <item name="android:layout_height">@dimen/dp48</item>
+        <item name="android:layout_marginTop">@dimen/dp16</item>
+        <item name="android:layout_marginLeft">@dimen/dp16</item>
+        <item name="android:layout_marginRight">@dimen/dp16</item>
+        <item name="android:paddingTop">@dimen/dp8</item>
+        <item name="android:paddingBottom">@dimen/dp8</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textSize">@dimen/sp16</item>
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+    <style name="settingItem_line">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">1px</item>
+        <item name="android:layout_marginLeft">@dimen/dp20</item>
+        <item name="android:layout_marginRight">@dimen/dp20</item>
+        <item name="android:background">@color/listview_line_1</item>
+    </style>
+
+    <!--小红点-->
+    <style name="redPoint">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:src">@drawable/comm_red_point</item>
+    </style>
+</resources>

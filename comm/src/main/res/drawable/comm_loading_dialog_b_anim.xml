@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:drawable="@mipmap/comm_toast_b_bg_01"
+        android:duration="50" />
+    <item
+        android:drawable="@mipmap/comm_toast_b_bg_02"
+        android:duration="50" />
+    <item
+        android:drawable="@mipmap/comm_toast_b_bg_03"
+        android:duration="50" />
+    <item
+        android:drawable="@mipmap/comm_toast_b_bg_04"
+        android:duration="50" />
+    <item
+        android:drawable="@mipmap/comm_toast_b_bg_05"
+        android:duration="50" />
+    <item
+        android:drawable="@mipmap/comm_toast_b_bg_06"
+        android:duration="50" />
+    <item
+        android:drawable="@mipmap/comm_toast_b_bg_07"
+        android:duration="50" />
+    <item
+        android:drawable="@mipmap/comm_toast_b_bg_08"
+        android:duration="50" />
+    <item
+        android:drawable="@mipmap/comm_toast_b_bg_09"
+        android:duration="50" />
+    <item
+        android:drawable="@mipmap/comm_toast_b_bg_10"
+        android:duration="50" />
+    <item
+        android:drawable="@mipmap/comm_toast_b_bg_11"
+        android:duration="50" />
+    <item
+        android:drawable="@mipmap/comm_toast_b_bg_12"
+        android:duration="50" />
+    <item
+        android:drawable="@mipmap/comm_toast_b_bg_13"
+        android:duration="50" />
+    <item
+        android:drawable="@mipmap/comm_toast_b_bg_14"
+        android:duration="50" />
+    <item
+        android:drawable="@mipmap/comm_toast_b_bg_15"
+        android:duration="50" />
+    <item
+        android:drawable="@mipmap/comm_toast_b_bg_16"
+        android:duration="50" />
+    <item
+        android:drawable="@mipmap/comm_toast_b_bg_17"
+        android:duration="50" />
+    <item
+        android:drawable="@mipmap/comm_toast_b_bg_18"
+        android:duration="50" />
+    <item
+        android:drawable="@mipmap/comm_toast_b_bg_19"
+        android:duration="50" />
+    <item
+        android:drawable="@mipmap/comm_toast_b_bg_20"
+        android:duration="50" />
+    <item
+        android:drawable="@mipmap/comm_toast_b_bg_21"
+        android:duration="50" />
+    <item
+        android:drawable="@mipmap/comm_toast_b_bg_22"
+        android:duration="50" />
+    <item
+        android:drawable="@mipmap/comm_toast_b_bg_23"
+        android:duration="50" />
+    <item
+        android:drawable="@mipmap/comm_toast_b_bg_24"
+        android:duration="50" />
+    <item
+        android:drawable="@mipmap/comm_toast_b_bg_25"
+        android:duration="50" />
+    <item
+        android:drawable="@mipmap/comm_toast_b_bg_26"
+        android:duration="50" />
+    <item
+        android:drawable="@mipmap/comm_toast_b_bg_27"
+        android:duration="50" />
+    <item
+        android:drawable="@mipmap/comm_toast_b_bg_28"
+        android:duration="50" />
+    <item
+        android:drawable="@mipmap/comm_toast_b_bg_29"
+        android:duration="50" />
+    <item
+        android:drawable="@mipmap/comm_toast_b_bg_30"
+        android:duration="50" />
+    <item
+        android:drawable="@mipmap/comm_toast_b_bg_31"
+        android:duration="50" />
+    <item
+        android:drawable="@mipmap/comm_toast_b_bg_32"
+        android:duration="50" />
+    <item
+        android:drawable="@mipmap/comm_toast_b_bg_33"
+        android:duration="50" />
+    <item
+        android:drawable="@mipmap/comm_toast_b_bg_34"
+        android:duration="50" />
+    <item
+        android:drawable="@mipmap/comm_toast_b_bg_35"
+        android:duration="50" />
+    <item
+        android:drawable="@mipmap/comm_toast_b_bg_36"
+        android:duration="50" />
+    <item
+        android:drawable="@mipmap/comm_toast_b_bg_37"
+        android:duration="50" />
+    <item
+        android:drawable="@mipmap/comm_toast_b_bg_38"
+        android:duration="50" />
+    <item
+        android:drawable="@mipmap/comm_toast_b_bg_39"
+        android:duration="50" />
+    <item
+        android:drawable="@mipmap/comm_toast_b_bg_40"
+        android:duration="50" />
+    <item
+        android:drawable="@mipmap/comm_toast_b_bg_41"
+        android:duration="50" />
+    <item
+        android:drawable="@mipmap/comm_toast_b_bg_42"
+        android:duration="50" />
+    <item
+        android:drawable="@mipmap/comm_toast_b_bg_43"
+        android:duration="50" />
+    <item
+        android:drawable="@mipmap/comm_toast_b_bg_44"
+        android:duration="50" />
+    <item
+        android:drawable="@mipmap/comm_toast_b_bg_45"
+        android:duration="50" />
+    <item
+        android:drawable="@mipmap/comm_toast_b_bg_46"
+        android:duration="50" />
+    <item
+        android:drawable="@mipmap/comm_toast_b_bg_47"
+        android:duration="50" />
+    <item
+        android:drawable="@mipmap/comm_toast_b_bg_48"
+        android:duration="50" />
+    <item
+        android:drawable="@mipmap/comm_toast_b_bg_49"
+        android:duration="50" />
+    <item
+        android:drawable="@mipmap/comm_toast_b_bg_50"
+        android:duration="50" />
+
+</animation-list>

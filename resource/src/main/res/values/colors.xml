@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="theme">#33bbff</color>
+    <color name="transparent">#00000000</color>
+    <color name="transluent">#0000</color>
+    <color name="white">#ffffffff</color>
+    <color name="black_transluent">#bb000000</color>
+    <color name="black_transluent20">#33000000</color>
+    <color name="black_transluent50">#7B000000</color>
+    <color name="black_transluent70">#B3000000</color>
+    <color name="black_transluent80">#BB000000</color>
+    <color name="white_transluent50">#7Bffffff</color>
+    <color name="white_transluent90">#E6ffffff</color>
+    <color name="white_transluent10">#1Affffff</color>
+    <color name="white_transluent60">#99ffffff</color>
+    <color name="theme_transluent20">#3333bbff</color>
+    <color name="app_blue">#62b2f7</color>
+    <color name="app_orange">#f88233</color>
+    <color name="setting_item_line">#cccccc</color>
+    <color name="setting_item_pressed">#f5f5f5</color>
+    <color name="list_item_div_color">#E1E4E6</color>
+    <color name="list_item_hover_bg">#e5e5e5</color>
+
+    <drawable name="transluent">#0000</drawable>
+
+    <color name="register_common_color">#0088cc</color>
+    <color name="register_bg_color">#33bbff</color>
+    <color name="background_tab_pressed">#6633B5E5</color>
+    <color name="result_view">#b0000000</color>
+    <color name="gray">#808080</color>
+    <color name="viewfinder_mask">#60000000</color>
+    <color name="lightgreen">#99CC33</color>
+    <color name="green">#00CC00</color>
+    <color name="send_tag_Text">#FFA1ADB3</color>
+    <color name="feed_feedback_done_text_color">#a1adb3</color>
+    <color name="record_button_progress_dark">#26374B</color>
+    
+    
+    <!-- 修改此文件前请确保和UI的googleDoc上的色值保持一致 -->
+
+    <color name="view_border_2">#2A98FF</color> <!-- 颜色2 -->
+    <color name="view_bg_1">#F7F9FA</color> <!-- 底色1 -->
+    <color name="view_bg_3">#FFFFFF</color> <!-- 导航底色 -->
+    <color name="view_bg_4">#FFFFFF</color> <!-- tabbar底色 -->
+    <color name="view_bg_8">#FF5533</color> <!-- 辅助颜色 -->
+    <color name="view_bg_line_1">#E7E7E7</color> <!-- nav分割线1 -->
+    <color name="view_bg_gradient_start">#2A98FF</color> <!-- 深底 -->
+
+    <color name="view_nav_center_tx">#4F4F4F</color> <!-- nav文字（中间） -->
+    <color name="view_title_tx">#1D1D1D</color> <!-- 标题（新增） -->
+    <color name="te_text_segment_1">#5C6166</color> <!-- 正文1 -->
+    <color name="te_text_segment_3">#ffffff</color> <!-- 正文3 -->
+    <color name="te_text_title_1">#A1ADBA</color> <!-- 副标题1 -->
+    <color name="te_text_note_1">#ACACAC</color> <!-- 注释1 -->
+    <color name="te_text_hint">#2A98FF</color> <!-- 提示 -->
+    <color name="te_text_section_1">#5C6166</color> <!-- 大段文字1 -->
+    <color name="te_text_link_light">#0B79E1</color> <!-- 链接点击 -->
+    <color name="te_text_nav">#8C8C8C</color> <!-- nav文字（左右） -->
+    <color name="te_bg_input">#FFFFFF</color> <!-- 输入框背景色 -->
+    <color name="te_bg_input_2">#F7F7F7</color> <!-- 输入框颜色2（新增） -->
+
+    <color name="button_text_normal_1">#FFFFFF</color> <!-- 按钮－正常1 -->
+    <color name="button_text_normal_3">#2A98ff</color> <!-- 按钮 - 正常3 -->
+    <color name="button_text_tabbar_normal">#5C6166</color> <!-- tabbar－正常 -->
+    <color name="button_text_tabbar_selected">#1F85FE</color> <!-- tabbar－选中 -->
+    <color name="button_bg_normal_1">#1F85FE</color> <!-- 按钮 - 正常1 -->
+    <color name="button_bg_normal_3">#FFFFFF</color> <!-- 按钮 - 正常3 -->
+    <color name="button_bg_selected_1">#0B79E1</color> <!-- 按钮 - 选中1 -->
+    <color name="button_bg_selected_3">#F8F8F8</color> <!-- 按钮 - 选中3 -->
+    <color name="button_bg_unanble_1">#ACACAC</color> <!-- 按钮 - 不可用1 -->
+
+    <color name="listview_line_1">#E7E7E7</color> <!-- 分割线1 -->
+    <color name="listview_line_2">#C3C3C3</color> <!-- 次要分割线（新增） -->
+
+    <color name="item_bg_normal_1">#FFFFFF</color> <!-- 背景色1 -->
+    <color name="item_bg_hover">#F1FAFF</color> <!-- 高亮1 -->
+    <color name="item_bg_light_1">#F8F8F8</color> <!-- 选中1 -->
+    <color name="comm_transparent">#00000000</color> <!-- 透明色 -->
+    <color name="black_transparent70">#b2000000</color> <!-- 透明色70% -->
+
+    <color name="subject_all">#A3B1CC</color>
+    <color name="subject_chinese">#BF9DE6</color>
+    <color name="subject_english">#F279BC</color>
+    <color name="subject_political">#E68A96</color>
+    <color name="subject_history">#FF8C66</color>
+    <color name="subject_geography">#FFB133</color>
+    <color name="subject_other">#EBC717</color>
+    <color name="subject_biology">#A7CC52</color>
+    <color name="subject_chemistry">#66CCCA</color>
+    <color name="subject_physics">#69C4E6</color>
+    <color name="subject_math">#8DA3F3</color>
+    <color name="exer_bg2">#FFF4F2</color> <!-- 背景颜色2 -->
+    <color name="exer_text">#1F85FE</color> <!-- 文字颜色 -->
+    <color name="my_gradient_start2">#79CC1E</color>
+    <color name="my_gradient_end2">#6EBF15</color>
+    <color name="coupon">#FFB134</color>
+    <color name="buy_class">#64B012</color>
+    <color name="guwen_yicuozi">#FD9292</color>
+
+    <!-- 以下为待废弃颜色 -->
+
+    <color name="view_bg_6">#83D3EE</color>
+    <color name="button_bg_segment_normal_1">#FFFFFF</color>
+    <color name="button_bg_segment_selected_1">#00AAFF</color>
+    <color name="language_span">#888888</color>
+    <color name="card_coupons_top">#FFAF2A</color>
+    <!-- comm中的资源颜色-->
+    <color name="font_content_cccccc">#cccccc</color>
+
+</resources>
