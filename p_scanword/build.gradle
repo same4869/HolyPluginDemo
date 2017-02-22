@@ -18,6 +18,13 @@ android {
 
     }
 
+    sourceSets {
+        main {
+            manifest.srcFile 'src/main/debug/AndroidManifest.xml'
+        }
+    }
+
+
     signingConfigs {
         debug {
             v2SigningEnabled false
