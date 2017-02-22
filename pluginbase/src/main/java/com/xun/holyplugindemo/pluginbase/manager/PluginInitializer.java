@@ -24,7 +24,7 @@ public class PluginInitializer {
     public static void init(Context context, IPluginUpdateRequest pluginUpdateRequest, boolean loadLocal, boolean validPublicKey) {
         LOAD_LOCAL = loadLocal;
         VALID_PUBLIC_KEY = validPublicKey;
-        PluginUpdateManager.init(pluginUpdateRequest);
+        //PluginUpdateManager.init(pluginUpdateRequest);
         new InitTask(context.getApplicationContext()).execute();
     }
 

@@ -9,9 +9,11 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/bbcomm" />
             <option value="$PROJECT_DIR$/comm" />
             <option value="$PROJECT_DIR$/p_scanword" />
             <option value="$PROJECT_DIR$/pluginbase" />
+            <option value="$PROJECT_DIR$/plugindebug" />
             <option value="$PROJECT_DIR$/resource" />
           </set>
         </option>

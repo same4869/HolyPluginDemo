@@ -14,5 +14,5 @@
        android:id="@+id/app_scanword_btn"
        android:layout_width="wrap_content"
        android:layout_height="wrap_content"
-       android:text="打开一个"/>
+       android:text="打开一个Scanword插件"/>
 </LinearLayout>

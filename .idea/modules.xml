@@ -4,9 +4,11 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/HolyPluginDemo.iml" filepath="$PROJECT_DIR$/HolyPluginDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bbcomm/bbcomm.iml" filepath="$PROJECT_DIR$/bbcomm/bbcomm.iml" />
       <module fileurl="file://$PROJECT_DIR$/comm/comm.iml" filepath="$PROJECT_DIR$/comm/comm.iml" />
       <module fileurl="file://$PROJECT_DIR$/p_scanword/p_scanword.iml" filepath="$PROJECT_DIR$/p_scanword/p_scanword.iml" />
       <module fileurl="file://$PROJECT_DIR$/pluginbase/pluginbase.iml" filepath="$PROJECT_DIR$/pluginbase/pluginbase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/plugindebug/plugindebug.iml" filepath="$PROJECT_DIR$/plugindebug/plugindebug.iml" />
       <module fileurl="file://$PROJECT_DIR$/resource/resource.iml" filepath="$PROJECT_DIR$/resource/resource.iml" />
     </modules>
   </component>

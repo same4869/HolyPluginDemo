@@ -617,10 +617,10 @@ public class PluginManager {
      */
     private static String getPluginPackageName(String pluginName) {
         if (pluginName.startsWith(PLUGIN_PREFIX)) {
-            return new StringBuffer("com.wenba.bangbang.").append(pluginName.substring(PLUGIN_PREFIX.length()))
+            return new StringBuffer("com.xun.holyplugindemo.").append(pluginName.substring(PLUGIN_PREFIX.length()))
                     .toString();
         } else {
-            return new StringBuffer("com.wenba.bangbang.").append(pluginName).toString();
+            return new StringBuffer("com.xun.holyplugindemo.").append(pluginName).toString();
         }
     }
 

@@ -1,0 +1,8 @@
+{
+  "plugins": [
+    {
+      "name": "p_scanword",
+      "minver": 1000000
+    }
+  ]
+}
